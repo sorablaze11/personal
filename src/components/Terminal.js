@@ -30,7 +30,7 @@ const styles = {
     display: "block",
     width: "700px",
     height: "375px",
-    backgroundColor: "rgb(39, 39, 39)",
+    backgroundColor: "#30353a",
     outline: "none",
     borderBottomLeftRadius: "5px",
     borderBottomRightRadius: "5px",
@@ -42,7 +42,7 @@ const styles = {
   },
   text: {
     marginTop: 0,
-    color: "#33FF00",
+    color: "#95F584",
     fontFamily: `'Ubuntu Mono', monospace`
   }
 };
